@@ -1,0 +1,1 @@
+print(len(list(filter(lambda x: x in "aeiou", input("Enter a string: ")))))

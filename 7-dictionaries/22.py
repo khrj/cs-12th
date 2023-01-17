@@ -1,0 +1,1 @@
+print(dict([reversed(item.split('-')) for item in input("Enter dictionary (hyphen between key-value, comma between records): ").split(',')]))

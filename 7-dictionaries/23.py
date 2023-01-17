@@ -1,0 +1,2 @@
+dictionary_keys = dict([item.split('-') for item in input("Enter dictionary (hyphen between key-value, comma between records): ").split(',')]).keys()
+print([word for word in input("Enter string: ").split(" ") if word not in dictionary_keys])

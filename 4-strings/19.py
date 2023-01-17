@@ -1,0 +1,1 @@
+print("\n".join(map(lambda x: x * 2, list(input("Enter a string: ")))))

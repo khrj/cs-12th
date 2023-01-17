@@ -1,0 +1,1 @@
+Strings are immutable and store characters, lists are mutable and store everything
