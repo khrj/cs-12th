@@ -1,1 +1,1 @@
-print(dict([[(split := student.split(","))[0], {"name": split[1], "marks": split[2], "grade": split[3]}] for student in input("Enter student data (rollno, name, marks, grade), where each field is separated by a comma, and each student by a semi-colon: ").split(";")]))
+print({(split := student.split(","))[0]:{"name": split[1], "marks": split[2], "grade": split[3]} for student in input("Enter student data (rollno, name, marks, grade), where each field is separated by a comma, and each student by a semi-colon: ").split(";")})
