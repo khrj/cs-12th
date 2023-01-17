@@ -1,0 +1,1 @@
+Dictionaries can be concatenated, but not sliced. They are not sequences.

@@ -1,0 +1,7 @@
+isdigit
+in or find
+capitalize
+upper
+isupper
+lstrip
+

@@ -1,0 +1,2 @@
+string = input("Enter a string: ")
+print(f"{len(string)}; {string * 10}; {string[0]}; {string[:3]}; {string[-3:]}; {string[::-1]}; {string[1:-1]}; {string.upper()}; {'e' * len(string)}; {' ' * len(string)};")

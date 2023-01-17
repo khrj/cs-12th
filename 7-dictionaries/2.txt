@@ -1,0 +1,1 @@
+Yes, a list is a special case of a dictionary where keys are incremented from 0 to len
