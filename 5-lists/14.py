@@ -1,1 +1,1 @@
-print((lst := [int(x) for x in input("Enter list of numbers separated by commas: ").split(",")]).index(max(lst)), lst.index(min(lst)))
+print((lst := [int(x) for x in input("Enter list of numbers separated by commas: ").split(",")]).index(max(lst)) + 1, lst.index(min(lst)) + 1)
