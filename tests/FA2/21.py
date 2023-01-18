@@ -1,0 +1,1 @@
+print(len((p := input("Enter password: "))) <= 10 and len([c for c in p if c.isalpha() and c.isupper()]) >= 1 and len([c for c in p if c.isdigit()]) >= 1 and len([c for c in p if not c.isalnum()]) >= 1)

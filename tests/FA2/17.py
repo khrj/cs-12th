@@ -1,0 +1,1 @@
+print(" ".join([(string := "Harley-Davidson May Exit India Due To Poor Sales")[16:24], string[-5:]]))
