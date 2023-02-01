@@ -1,11 +1,2 @@
-print("Simple interest: ")
-p = float(input("Enter p: "))
-r = float(input("Enter r: "))
-t = float(input("Enter t: "))
-print(f"Simple interest: {p * r * t / 100}")
-
-print("Compound interest: ")
-p = float(input("Enter p: "))
-r = float(input("Enter r: "))
-t = float(input("Enter t: "))
-print(f"Compound interest: {(p * (1 + r/100) ** t) - p : .2f}")
+print("Simple interest:", float(input('Simple interest:\nEnter p: ')) * float(input('Enter r: ')) * float(input('Enter t: ')) / 100)
+print("Compound interest:", ((p := float(input('Compound interest:\nEnter p: '))) * (1 + float(input('Enter r: '))/100) ** float(input('Enter t: '))) - p)

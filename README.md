@@ -12,7 +12,18 @@ This repository contains the solutions to each of the question banks given:
 6. [Tuples](https://github.com/khrj/cs-qb-answers/tree/main/6-tuples)
 7. [Dictionaries](https://github.com/khrj/cs-qb-answers/tree/main/7-dictionaries)
 
-The answers for Strings, Tuples, Lists and Dictionaries are designed to be
-highly compact and use the smallest number of statements possible. They may or
-may not be idiomatic. I highly recommend using a formatter before trying to
-understand the code
+The answers for the following are designed to be highly compact and use the
+smallest number of statements possible.
+
+-   [x] Fundamentals and data handling
+-   [ ] Data handling libraries
+-   [ ] Control flow and iterative statements
+-   [x] Strings
+-   [x] Tuples
+-   [x] Lists
+-   [x] Dictionaries
+
+The shortened answers (unless they're trivial) are _not_ idiomatic. Please do
+not write production code using this as an example
+
+I highly recommend using a formatter before trying to understand the code

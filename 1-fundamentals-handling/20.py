@@ -1,3 +1,1 @@
-a, b = input("first: "), input("second: ")
-a, b = b, a
-print(f"first: {a}, second: {b}")
+print(a := input("first: ") and "", b := input("second: ") and "", f"first: {b}, second: {a}", sep="",)

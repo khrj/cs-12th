@@ -1,3 +1,1 @@
-b = float(input("Enter base: "))
-h = float(input("Enter height: "))
-print(f"Area: {0.5 * b * h}")
+print(f"Area: {0.5 * float(input('Enter base: ')) * float(input('Enter height: '))}")
