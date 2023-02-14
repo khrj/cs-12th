@@ -1,4 +1,4 @@
-# CS QB Answer keys
+# CS Answer keys
 
 _This repository is not intended to be used standalone without the given classroom resource_
 
@@ -11,6 +11,11 @@ This repository contains the solutions to each of the question banks given:
 5. [Lists](https://github.com/khrj/cs-qb-answers/tree/main/5-lists)
 6. [Tuples](https://github.com/khrj/cs-qb-answers/tree/main/6-tuples)
 7. [Dictionaries](https://github.com/khrj/cs-qb-answers/tree/main/7-dictionaries)
+
+In addition, it has solutions for
+
+1. The FA2 test
+2. The first functions assignment
 
 The answers for the following are designed to be highly compact and use the
 smallest number of statements possible.
