@@ -12,10 +12,15 @@ This repository contains the solutions to each of the question banks given:
 6. [Tuples](https://github.com/khrj/cs-qb-answers/tree/main/6-tuples)
 7. [Dictionaries](https://github.com/khrj/cs-qb-answers/tree/main/7-dictionaries)
 
-In addition, it has solutions for
+In addition, it has solutions for the following tests:
 
-1. The FA2 test
-2. The first functions assignment
+1. [FA2](https://github.com/khrj/cs-qb-answers/tree/main/tests/FA2)
+
+And the following assignments:
+
+1. Functions
+    - [x] [1](https://github.com/khrj/cs-qb-answers/tree/main/assignments/functions-1)
+    - [x] [2](https://github.com/khrj/cs-qb-answers/tree/main/assignments/functions-2)
 
 The answers for the following are designed to be highly compact and use the
 smallest number of statements possible.
