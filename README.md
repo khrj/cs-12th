@@ -11,6 +11,7 @@ This repository contains the solutions to each of the question banks given:
 5. [Lists](https://github.com/khrj/cs-qb-answers/tree/main/5-lists)
 6. [Tuples](https://github.com/khrj/cs-qb-answers/tree/main/6-tuples)
 7. [Dictionaries](https://github.com/khrj/cs-qb-answers/tree/main/7-dictionaries)
+8. [Functions](https://github.com/khrj/cs-qb-answers/tree/main/8-functions)
 
 In addition, it has solutions for the following tests:
 
@@ -32,6 +33,7 @@ smallest number of statements possible.
 -   [x] Tuples
 -   [x] Lists
 -   [x] Dictionaries
+-   [x] Functions
 
 The shortened answers (unless they're trivial) are _not_ idiomatic. Please do
 not write production code using this as an example
