@@ -1,5 +1,1 @@
-W = input("Enter a word")
-if W == 'Hello':
-    print('Ok')
-else:
-    print('Not Ok')
+print("Ok" if input("Enter a word: ") == "Hello" else "Not Ok")

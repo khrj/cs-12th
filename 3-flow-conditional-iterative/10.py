@@ -1,6 +1,1 @@
-num = 2
-while num < 10:
-    if num % 2 == 0:
-        print("Found an even number", num)
-        continue
-    print("Found a number", num)
+[(print("Found an even number", num) if num % 2 == 0 else print("Found an odd number", num)) for num in range(2, 10)]
