@@ -1,0 +1,1 @@
+print("Strings not of same length." if len(a := input("Enter string 1: ")) != len(b := input("Enter string 2: ")) else "".join(elm for ab in zip(a, b) for elm in ab))

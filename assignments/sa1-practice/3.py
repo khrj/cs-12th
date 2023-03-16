@@ -1,0 +1,1 @@
+(a := input("Enter string: ")) and print(len([x for x in a if x.isdigit()]), len([x for x in a if not x.isdigit() and not x.isalpha()]))
