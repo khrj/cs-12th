@@ -1,0 +1,1 @@
+(d := dict([item.split('-') for item in input("Enter dictionary (hyphen between key-value, comma between records): ").split(',')])) and print(" ".join([word for word in input("Enter string: ").split(" ") if not word in d]))
