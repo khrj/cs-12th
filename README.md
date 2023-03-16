@@ -37,15 +37,17 @@ not write production code using this as an example.**
 
 ## Assignment Solutions
 
-| Topic                      | Idiomatic | One-liners | One-liners<sup>[strict]</sup> |
-| -------------------------- | --------- | ---------- | ----------------------------- |
-| [Functions 1][functions-1] | ✔         |            |                               |
-| [Functions 2][functions-2] | ✔         |            |                               |
-| [Flow of control][a-flow]  |           |            | ✔                             |
+| Topic                            | Idiomatic | One-liners | One-liners<sup>[strict]</sup> |
+| -------------------------------- | --------- | ---------- | ----------------------------- |
+| [Functions 1][functions-1]       | ✔         |            |                               |
+| [Functions 2][functions-2]       | ✔         |            |                               |
+| [Flow of control][a-flow]        |           |            | ✔                             |
+| [String manipulation][a-strings] |           |            | ✔                             |
 
 [functions-1]: https://github.com/khrj/cs-answers/tree/main/assignments/functions-1
 [functions-2]: https://github.com/khrj/cs-answers/tree/main/assignments/functions-2
 [a-flow]: https://github.com/khrj/cs-answers/tree/main/assignments/flow-of-control
+[a-strings]: https://github.com/khrj/cs-answers/tree/main/assignments/string-manipulation
 
 ## Test Solutions
 
