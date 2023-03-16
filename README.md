@@ -26,14 +26,14 @@ not write production code using this as an example.**
 | [Dictionaries][dictionaries]                   |           | ✔          |                               |
 | [Functions][functions]                         |           | ✔          |                               |
 
-[fundamentals]: https://github.com/khrj/cs-qb-answers/tree/main/1-fundamentals-handling
-[handling]: https://github.com/khrj/cs-qb-answers/tree/main/2-data-handling-libraries
-[flow]: https://github.com/khrj/cs-qb-answers/tree/main/3-flow-conditional-iterative
-[strings]: https://github.com/khrj/cs-qb-answers/tree/main/4-strings
-[lists]: https://github.com/khrj/cs-qb-answers/tree/main/5-lists
-[tuples]: https://github.com/khrj/cs-qb-answers/tree/main/6-tuples
-[dictionaries]: https://github.com/khrj/cs-qb-answers/tree/main/7-dictionaries
-[functions]: https://github.com/khrj/cs-qb-answers/tree/main/8-functions
+[fundamentals]: https://github.com/khrj/cs-answers/tree/main/1-fundamentals-handling
+[handling]: https://github.com/khrj/cs-answers/tree/main/2-data-handling-libraries
+[flow]: https://github.com/khrj/cs-answers/tree/main/3-flow-conditional-iterative
+[strings]: https://github.com/khrj/cs-answers/tree/main/4-strings
+[lists]: https://github.com/khrj/cs-answers/tree/main/5-lists
+[tuples]: https://github.com/khrj/cs-answers/tree/main/6-tuples
+[dictionaries]: https://github.com/khrj/cs-answers/tree/main/7-dictionaries
+[functions]: https://github.com/khrj/cs-answers/tree/main/8-functions
 
 ## Assignment Solutions
 
@@ -43,9 +43,9 @@ not write production code using this as an example.**
 | [Functions 2][functions-2] | ✔         |            |                               |
 | [Flow of control][a-flow]  |           |            | ✔                             |
 
-[functions-1]: https://github.com/khrj/cs-qb-answers/tree/main/assignments/functions-1
-[functions-2]: https://github.com/khrj/cs-qb-answers/tree/main/assignments/functions-2
-[a-flow]: https://github.com/khrj/cs-qb-answers/tree/main/assignments/flow-of-control
+[functions-1]: https://github.com/khrj/cs-answers/tree/main/assignments/functions-1
+[functions-2]: https://github.com/khrj/cs-answers/tree/main/assignments/functions-2
+[a-flow]: https://github.com/khrj/cs-answers/tree/main/assignments/flow-of-control
 
 ## Test Solutions
 
@@ -53,7 +53,7 @@ not write production code using this as an example.**
 | ----------- | --------- | ---------- | ----------------------------- |
 | [FA2][fa-2] |           | ✔          |                               |
 
-[fa-2]: https://github.com/khrj/cs-qb-answers/tree/main/tests/FA2
+[fa-2]: https://github.com/khrj/cs-answers/tree/main/tests/FA2
 
 ## Difference between one-liners and one-liners<sup>[strict]</sup>
 
