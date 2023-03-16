@@ -45,7 +45,7 @@ not write production code using this as an example.**
 | [String manipulation][a-strings] |           |            | ✔                             |
 | [SA1 practice][sa1-practice]     |           |            | ✔                             |
 | [Lists][a-lists]                 |           |            | ✔                             |
-| [Practice programs][practice]    |           |            | ✔                             |
+| [Practice 1][practice-1]         |           |            | ✔                             |
 | [Dictionaries][a-dict]           |           |            | ✔                             |
 
 [functions-1]: https://github.com/khrj/cs-answers/tree/main/assignments/functions-1
@@ -54,7 +54,7 @@ not write production code using this as an example.**
 [a-strings]: https://github.com/khrj/cs-answers/tree/main/assignments/string-manipulation
 [sa1-practice]: https://github.com/khrj/cs-answers/tree/main/assignments/sa1-practice
 [a-lists]: https://github.com/khrj/cs-answers/tree/main/assignments/lists
-[practice]: https://github.com/khrj/cs-answers/tree/main/assignments/practice-programs
+[practice-1]: https://github.com/khrj/cs-answers/tree/main/assignments/practice-1
 [a-dict]: https://github.com/khrj/cs-answers/tree/main/assignments/dictionaries
 
 ## Test Solutions
