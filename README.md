@@ -1,41 +1,79 @@
-# CS Answer keys
+# CS Answers
 
-_This repository is not intended to be used standalone without the given classroom resource_
+_This repository is not intended to be used standalone without the given classroom resource._
 
-This repository contains the solutions to each of the question banks given:
+**None of the one-liners given here are idiomatic. Please do
+not write production code using this as an example.**
 
-1. [Fundamentals and data handling](https://github.com/khrj/cs-qb-answers/tree/main/1-fundamentals-handling)
-2. [Data handling libraries](https://github.com/khrj/cs-qb-answers/tree/main/2-data-handling-libraries)
-3. [Control flow and iterative statements](https://github.com/khrj/cs-qb-answers/tree/main/3-flow-conditional-iterative)
-4. [Strings](https://github.com/khrj/cs-qb-answers/tree/main/4-strings)
-5. [Lists](https://github.com/khrj/cs-qb-answers/tree/main/5-lists)
-6. [Tuples](https://github.com/khrj/cs-qb-answers/tree/main/6-tuples)
-7. [Dictionaries](https://github.com/khrj/cs-qb-answers/tree/main/7-dictionaries)
-8. [Functions](https://github.com/khrj/cs-qb-answers/tree/main/8-functions)
+**Table of contents:**
 
-In addition, it has solutions for the following tests:
+-   [Question Bank Solutions](#question-bank-solutions)
+-   [Assignment Solutions](#assignment-solutions)
+-   [Test Solutions](#test-solutions)
+-   [Difference between one-liners and one-liners<sup>[strict]</sup>](#difference-between-one-liners-and-one-linersstrict)
+-   [Contributing](#contributing)
 
-1. [FA2](https://github.com/khrj/cs-qb-answers/tree/main/tests/FA2)
+## Question Bank Solutions
 
-And the following assignments:
+| Topic                                          | Idiomatic | One-liners | One-liners<sup>[strict]</sup> |
+| ---------------------------------------------- | --------- | ---------- | ----------------------------- |
+| [Fundamentals and data handling][fundamentals] |           | ✔          |                               |
+| [Data handling libraries][handling]            |           |            |                               |
+| [Control flow and iterative statements][flow]  | ✔         |            |                               |
+| [Strings][strings]                             |           | ✔          |                               |
+| [Lists][lists]                                 |           | ✔          |                               |
+| [Tuples][tuples]                               |           | ✔          |                               |
+| [Dictionaries][dictionaries]                   |           | ✔          |                               |
+| [Functions][functions]                         |           | ✔          |                               |
 
-1. Functions
-    - [x] [1](https://github.com/khrj/cs-qb-answers/tree/main/assignments/functions-1)
-    - [x] [2](https://github.com/khrj/cs-qb-answers/tree/main/assignments/functions-2)
+[fundamentals]: https://github.com/khrj/cs-qb-answers/tree/main/1-fundamentals-handling
+[handling]: https://github.com/khrj/cs-qb-answers/tree/main/2-data-handling-libraries
+[flow]: https://github.com/khrj/cs-qb-answers/tree/main/3-flow-conditional-iterative
+[strings]: https://github.com/khrj/cs-qb-answers/tree/main/4-strings
+[lists]: https://github.com/khrj/cs-qb-answers/tree/main/5-lists
+[tuples]: https://github.com/khrj/cs-qb-answers/tree/main/6-tuples
+[dictionaries]: https://github.com/khrj/cs-qb-answers/tree/main/7-dictionaries
+[functions]: https://github.com/khrj/cs-qb-answers/tree/main/8-functions
 
-The answers for the following are designed to be highly compact and use the
-smallest number of statements possible.
+## Assignment Solutions
 
--   [x] Fundamentals and data handling
--   [ ] Data handling libraries
--   [ ] Control flow and iterative statements
--   [x] Strings
--   [x] Tuples
--   [x] Lists
--   [x] Dictionaries
--   [x] Functions
+| Topic                      | Idiomatic | One-liners | One-liners<sup>[strict]</sup> |
+| -------------------------- | --------- | ---------- | ----------------------------- |
+| [Functions 1][functions-1] | ✔         |            |                               |
+| [Functions 2][functions-2] | ✔         |            |                               |
 
-The shortened answers (unless they're trivial) are _not_ idiomatic. Please do
-not write production code using this as an example
+[functions-1]: https://github.com/khrj/cs-qb-answers/tree/main/assignments/functions-1
+[functions-2]: https://github.com/khrj/cs-qb-answers/tree/main/assignments/functions-2
 
-I highly recommend using a formatter before trying to understand the code
+## Test Solutions
+
+| Topic       | Idiomatic | One-liners | One-liners<sup>[strict]</sup> |
+| ----------- | --------- | ---------- | ----------------------------- |
+| [FA2][fa-2] |           | ✔          |                               |
+
+[fa-2]: https://github.com/khrj/cs-qb-answers/tree/main/tests/FA2
+
+## Difference between one-liners and one-liners<sup>[strict]</sup>
+
+-   **One-liners**: Code written in a single line, using a single statement.
+    **Statements separated by semi-colons in a single line are prohibited**.
+    Exceptions (non-exhaustive):
+    -   Import statements
+    -   Guidelines imposed by the question ("define a function to-")
+    -   Misc reasons which make code longer by a few lines
+-   **One-liners<sup>[strict]</sup>**: Same as One-liners, except there are no
+    exceptions. If an answer requires multiple lines, it is categorized into
+    one-liners instead of one-liners<sup>[strict]</sup>.
+
+## Contributing
+
+Found a better solution to an answer? Perhaps one that reduces the number of
+statements in an answer? Excellent! Please open a [pull request][pull-request]
+or otherwise send your changes to me, while adhering to the following:
+
+-   Don't reduce a one-liners<sup>[strict]</sup> rating to a one-liners rating
+    (see [difference](#difference-between-one-liners-and-one-linersstrict))
+-   In idiomatic files, name variables well
+
+[pull-request]:
+    https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
