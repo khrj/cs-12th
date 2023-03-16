@@ -46,6 +46,7 @@ not write production code using this as an example.**
 | [Practice 1][practice-1]         |           |            | ✔                             |
 | [Dictionaries][a-dict]           |           |            | ✔                             |
 | [Practice 2][practice-2]         |           | ✔          |                               |
+| [Practice 3][practice-3]         | ✔         |            |                               |
 | [Functions 1][functions-1]       | ✔         |            |                               |
 | [Functions 2][functions-2]       | ✔         |            |                               |
 
@@ -56,6 +57,7 @@ not write production code using this as an example.**
 [practice-1]: https://github.com/khrj/cs-answers/tree/main/assignments/practice-1
 [a-dict]: https://github.com/khrj/cs-answers/tree/main/assignments/dictionaries
 [practice-2]: https://github.com/khrj/cs-answers/tree/main/assignments/practice-2
+[practice-3]: https://github.com/khrj/cs-answers/tree/main/assignments/practice-3
 [functions-1]: https://github.com/khrj/cs-answers/tree/main/assignments/functions-1
 [functions-2]: https://github.com/khrj/cs-answers/tree/main/assignments/functions-2
 
