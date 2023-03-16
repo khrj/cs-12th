@@ -39,23 +39,25 @@ not write production code using this as an example.**
 
 | Topic                            | Idiomatic | One-liners | One-liners<sup>[strict]</sup> |
 | -------------------------------- | --------- | ---------- | ----------------------------- |
-| [Functions 1][functions-1]       | ✔         |            |                               |
-| [Functions 2][functions-2]       | ✔         |            |                               |
 | [Flow of control][a-flow]        |           |            | ✔                             |
 | [String manipulation][a-strings] |           |            | ✔                             |
 | [SA1 practice][sa1-practice]     |           |            | ✔                             |
 | [Lists][a-lists]                 |           |            | ✔                             |
 | [Practice 1][practice-1]         |           |            | ✔                             |
 | [Dictionaries][a-dict]           |           |            | ✔                             |
+| [Practice 2][practice-2]         |           | ✔          |                               |
+| [Functions 1][functions-1]       | ✔         |            |                               |
+| [Functions 2][functions-2]       | ✔         |            |                               |
 
-[functions-1]: https://github.com/khrj/cs-answers/tree/main/assignments/functions-1
-[functions-2]: https://github.com/khrj/cs-answers/tree/main/assignments/functions-2
 [a-flow]: https://github.com/khrj/cs-answers/tree/main/assignments/flow-of-control
 [a-strings]: https://github.com/khrj/cs-answers/tree/main/assignments/string-manipulation
 [sa1-practice]: https://github.com/khrj/cs-answers/tree/main/assignments/sa1-practice
 [a-lists]: https://github.com/khrj/cs-answers/tree/main/assignments/lists
 [practice-1]: https://github.com/khrj/cs-answers/tree/main/assignments/practice-1
 [a-dict]: https://github.com/khrj/cs-answers/tree/main/assignments/dictionaries
+[practice-2]: https://github.com/khrj/cs-answers/tree/main/assignments/practice-2
+[functions-1]: https://github.com/khrj/cs-answers/tree/main/assignments/functions-1
+[functions-2]: https://github.com/khrj/cs-answers/tree/main/assignments/functions-2
 
 ## Test Solutions
 

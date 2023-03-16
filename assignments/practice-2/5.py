@@ -1,0 +1,1 @@
+print(" ".join([word[::-1] for word in input("Enter string: ").split(" ")]))
