@@ -26,14 +26,14 @@ not write production code using this as an example.**
 | [Dictionaries][dictionaries]                   |           | ✔          |                               |
 | [Functions][functions]                         |           | ✔          |                               |
 
-[fundamentals]: https://github.com/khrj/cs-answers/tree/main/1-fundamentals-handling
-[handling]: https://github.com/khrj/cs-answers/tree/main/2-data-handling-libraries
-[flow]: https://github.com/khrj/cs-answers/tree/main/3-flow-conditional-iterative
-[strings]: https://github.com/khrj/cs-answers/tree/main/4-strings
-[lists]: https://github.com/khrj/cs-answers/tree/main/5-lists
-[tuples]: https://github.com/khrj/cs-answers/tree/main/6-tuples
-[dictionaries]: https://github.com/khrj/cs-answers/tree/main/7-dictionaries
-[functions]: https://github.com/khrj/cs-answers/tree/main/8-functions
+[fundamentals]: https://github.com/khrj/cs-answers/tree/main/qbs/1-fundamentals-handling
+[handling]: https://github.com/khrj/cs-answers/tree/main/qbs/2-data-handling-libraries
+[flow]: https://github.com/khrj/cs-answers/tree/main/qbs/3-flow-conditional-iterative
+[strings]: https://github.com/khrj/cs-answers/tree/main/qbs/4-strings
+[lists]: https://github.com/khrj/cs-answers/tree/main/qbs/5-lists
+[tuples]: https://github.com/khrj/cs-answers/tree/main/qbs/6-tuples
+[dictionaries]: https://github.com/khrj/cs-answers/tree/main/qbs/7-dictionaries
+[functions]: https://github.com/khrj/cs-answers/tree/main/qbs/8-functions
 
 ## Assignment Solutions
 
