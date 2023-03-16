@@ -1,0 +1,1 @@
+(k := int(input("Enter k: ")), n := int(input("Enter n: "))) and print([tup for tup in [[int(x) for x in lststr.split(',')] for lststr in input("Enter list of tuples, separate tuples by semi-colons and elements by commas: ").split(';')] if tup.count(k) == n])

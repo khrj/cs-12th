@@ -1,0 +1,1 @@
+(string := input("Enter string: ")) and print(" ".join(set([x for x in string if string.count(x) > 1])))
