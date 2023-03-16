@@ -41,9 +41,11 @@ not write production code using this as an example.**
 | -------------------------- | --------- | ---------- | ----------------------------- |
 | [Functions 1][functions-1] | ✔         |            |                               |
 | [Functions 2][functions-2] | ✔         |            |                               |
+| [Flow of control][a-flow]  |           |            | ✔                             |
 
 [functions-1]: https://github.com/khrj/cs-qb-answers/tree/main/assignments/functions-1
 [functions-2]: https://github.com/khrj/cs-qb-answers/tree/main/assignments/functions-2
+[a-flow]: https://github.com/khrj/cs-qb-answers/tree/main/assignments/flow-of-control
 
 ## Test Solutions
 
