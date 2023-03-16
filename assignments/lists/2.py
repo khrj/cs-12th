@@ -1,0 +1,1 @@
+print("\n".join([s[1:] for s in input("Enter list of strings separated by commas: ").split(',')]))

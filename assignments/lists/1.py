@@ -1,0 +1,1 @@
+(lst := [float(x) for x in input("Enter list separated by commas: ").split(",")]) and print(lst.index((slst := sorted(lst))[-1]) + 1, lst.index(slst[0]) + 1)
