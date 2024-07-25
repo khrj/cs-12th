@@ -10,6 +10,8 @@ not write production code using this as an example.**
 -   [Question Bank Solutions](#question-bank-solutions)
 -   [Assignment Solutions](#assignment-solutions)
 -   [Test Solutions](#test-solutions)
+-   [Journal Solutions](https://github.com/khrj/cs-12th/tree/main/journal)
+-   [Practical Solutions](https://github.com/khrj/cs-12th/tree/main/practicals)
 -   [Difference between one-liners and one-liners<sup>[strict]</sup>](#difference-between-one-liners-and-one-linersstrict)
 -   [Contributing](#contributing)
 
@@ -26,14 +28,14 @@ not write production code using this as an example.**
 | [Dictionaries][dictionaries]                   |           | ✔          |                               |
 | [Functions][functions]                         |           | ✔          |                               |
 
-[fundamentals]: https://github.com/khrj/cs-answers/tree/main/qbs/1-fundamentals-handling
-[handling]: https://github.com/khrj/cs-answers/tree/main/qbs/2-data-handling-libraries
-[flow]: https://github.com/khrj/cs-answers/tree/main/qbs/3-flow-conditional-iterative
-[strings]: https://github.com/khrj/cs-answers/tree/main/qbs/4-strings
-[lists]: https://github.com/khrj/cs-answers/tree/main/qbs/5-lists
-[tuples]: https://github.com/khrj/cs-answers/tree/main/qbs/6-tuples
-[dictionaries]: https://github.com/khrj/cs-answers/tree/main/qbs/7-dictionaries
-[functions]: https://github.com/khrj/cs-answers/tree/main/qbs/8-functions
+[fundamentals]: https://github.com/khrj/cs-12th/tree/main/qbs/1-fundamentals-handling
+[handling]: https://github.com/khrj/cs-12th/tree/main/qbs/2-data-handling-libraries
+[flow]: https://github.com/khrj/cs-12th/tree/main/qbs/3-flow-conditional-iterative
+[strings]: https://github.com/khrj/cs-12th/tree/main/qbs/4-strings
+[lists]: https://github.com/khrj/cs-12th/tree/main/qbs/5-lists
+[tuples]: https://github.com/khrj/cs-12th/tree/main/qbs/6-tuples
+[dictionaries]: https://github.com/khrj/cs-12th/tree/main/qbs/7-dictionaries
+[functions]: https://github.com/khrj/cs-12th/tree/main/qbs/8-functions
 
 ## Assignment Solutions
 
@@ -50,16 +52,16 @@ not write production code using this as an example.**
 | [Functions 1][functions-1]       | ✔         |            |                               |
 | [Functions 2][functions-2]       | ✔         |            |                               |
 
-[a-flow]: https://github.com/khrj/cs-answers/tree/main/assignments/flow-of-control
-[a-strings]: https://github.com/khrj/cs-answers/tree/main/assignments/string-manipulation
-[sa1-practice]: https://github.com/khrj/cs-answers/tree/main/assignments/sa1-practice
-[a-lists]: https://github.com/khrj/cs-answers/tree/main/assignments/lists
-[practice-1]: https://github.com/khrj/cs-answers/tree/main/assignments/practice-1
-[a-dict]: https://github.com/khrj/cs-answers/tree/main/assignments/dictionaries
-[practice-2]: https://github.com/khrj/cs-answers/tree/main/assignments/practice-2
-[practice-3]: https://github.com/khrj/cs-answers/tree/main/assignments/practice-3
-[functions-1]: https://github.com/khrj/cs-answers/tree/main/assignments/functions-1
-[functions-2]: https://github.com/khrj/cs-answers/tree/main/assignments/functions-2
+[a-flow]: https://github.com/khrj/cs-12th/tree/main/assignments/flow-of-control
+[a-strings]: https://github.com/khrj/cs-12th/tree/main/assignments/string-manipulation
+[sa1-practice]: https://github.com/khrj/cs-12th/tree/main/assignments/sa1-practice
+[a-lists]: https://github.com/khrj/cs-12th/tree/main/assignments/lists
+[practice-1]: https://github.com/khrj/cs-12th/tree/main/assignments/practice-1
+[a-dict]: https://github.com/khrj/cs-12th/tree/main/assignments/dictionaries
+[practice-2]: https://github.com/khrj/cs-12th/tree/main/assignments/practice-2
+[practice-3]: https://github.com/khrj/cs-12th/tree/main/assignments/practice-3
+[functions-1]: https://github.com/khrj/cs-12th/tree/main/assignments/functions-1
+[functions-2]: https://github.com/khrj/cs-12th/tree/main/assignments/functions-2
 
 ## Test Solutions
 
@@ -67,7 +69,7 @@ not write production code using this as an example.**
 | ----------- | --------- | ---------- | ----------------------------- |
 | [FA2][fa-2] |           | ✔          |                               |
 
-[fa-2]: https://github.com/khrj/cs-answers/tree/main/tests/FA2
+[fa-2]: https://github.com/khrj/cs-12th/tree/main/tests/FA2
 
 ## Difference between one-liners and one-liners<sup>[strict]</sup>
 
